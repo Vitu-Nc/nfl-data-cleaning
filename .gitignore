@@ -1,0 +1,4 @@
+venv/
+[Dd]ata/
+.ipynb_checkpoints/
+__pycache__/
