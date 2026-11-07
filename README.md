@@ -18,3 +18,6 @@ Download the dataset from Kaggle into a Data/ folder, then run practice.ipynb.
 
 
 ![Dashboard page 2](images/dashboard_page2.png)
+
+
+![Dashboard page 3](images/dashboard_page3.png)
