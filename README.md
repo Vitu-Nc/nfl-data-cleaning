@@ -15,3 +15,6 @@ Dataset: NFL Play by Play 2009-2017 (Kaggle, maxhorowitz)
 ## How to reproduce
 Download the dataset from Kaggle into a Data/ folder, then run practice.ipynb.
 ![Dashboard page 1](images/dashboard_page1.png)
+
+
+![Dashboard page 2](images/dashboard_page2.png)
